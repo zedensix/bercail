@@ -24,12 +24,12 @@
 		"format": "biome format --write . && prettier --log-level warn --write \"src/**/*.svelte\" \"**/*.md\""
 	},
 	"devDependencies": {
-		"@biomejs/biome": "2.5.15",
+		"@biomejs/biome": "2.6.9",
 		"@crxjs/vite-plugin": "^3.0.0",
 		"@fontsource-variable/jetbrains-mono": "^5.3.0",
 		"@internationalized/date": "^3.12.4",
 		"@j178/prek": "^0.5.4",
-		"@kitql/helpers": "^0.8.15",
+		"@kitql/helpers": "^0.9.0",
 		"@lucide/svelte": "^1.50.0",
 		"@playwright/test": "^1.63.0",
 		"@sveltejs/adapter-bun": "^1.0.0",
